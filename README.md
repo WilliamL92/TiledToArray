@@ -1,15 +1,15 @@
 # TiledToArray
 A function to convert a JSON Tiled file to a readable array, easy to use in js canvas using Jquery
 
-#How to use it ?
+# How to use it ?
 
-##1) In Tiled, go to File -> Export as -> JSON
-##2) Import the JSON file into your app
-##3) Clone or copy the function.js into your app
+## 1) In Tiled, go to File -> Export as -> JSON
+## 2) Import the JSON file into your app
+## 3) Clone or copy the function.js into your app
 
-##Don't forget to import the Jquery library before init the TiledToArray function
+## Don't forget to import the Jquery library before init the TiledToArray function
 
-#Now in your js code you can use the function like the example below
+# Now in your js code you can use the function like the example below
 
 ```const json = "./media/myJsonFile.json" //The link to your JSON file from Tiled
 const reader = new FileReader()

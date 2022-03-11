@@ -38,3 +38,4 @@ reader.onload = ()=>{
 }
 reader.readAsText(json)  
 ```
+### Make sure that all of your image link from the JSON Tiled file are good

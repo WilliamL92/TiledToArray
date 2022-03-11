@@ -23,15 +23,15 @@ reader.onload = ()=>{
     // name: "layer1",
     // properties: {customClass: {type: "string", value: "mainLayer"}},
     // data: [{
-    //  animations: {
-    //    duration: [200, 200, 200],
-    //    frames: 3,
-    //    image: "Base64 image..."
-    //  },
-    //  properties: {customClassTile: {type: "string", value: "myClass"}},
-    //  image: "default base64 image...",
-    //  x: 55,
-    //  Y: 60
+    //    animations: {
+    //      duration: [200, 200, 200],
+    //      frames: 3,
+    //      image: "Base64 image..."
+    //    },
+    //    properties: {customClassTile: {type: "string", value: "myClass"}},
+    //    image: "default base64 image...",
+    //    x: 55,
+    //    Y: 60
     //  }],
     // }]
   })

@@ -11,7 +11,8 @@ A function to convert a JSON Tiled file to a readable array, easy to use in js c
 
 ### Now in your js code you can use the function like the example below
 
-```const json = "./media/myJsonFile.json" //The link to your JSON file from Tiled
+```
+const json = "./media/myJsonFile.json" //The link to your JSON file from Tiled
 const reader = new FileReader()
 reader.onload = ()=>{
   tiledToArray(JSON.parse(reader.result)).then((array)=>{

@@ -34,7 +34,6 @@ reader.onload = ()=>{
     //  Y: 60
     // }],
     // }]
-    //}]
   })
 }
 reader.readAsText(json)  

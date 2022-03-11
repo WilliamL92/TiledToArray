@@ -32,7 +32,7 @@ reader.onload = ()=>{
     //  image: "default base64 image...",
     //  x: 55,
     //  Y: 60
-    // }],
+    //  }],
     // }]
   })
 }

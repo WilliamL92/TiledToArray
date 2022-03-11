@@ -28,11 +28,11 @@ reader.onload = ()=>{
     //    frames: 3,
     //    image: "Base64 image..."
     //  },
-    //  properties: {customClassTile: {type: "string", value: "myClass"}}
+    //  properties: {customClassTile: {type: "string", value: "myClass"}},
+    //  image: "default base64 image...",
+    //  x: 55,
+    //  Y: 60
     // }],
-    // image: "default base64 image...",
-    // x: 55,
-    // Y: 60
     // }]
     //}]
   })
